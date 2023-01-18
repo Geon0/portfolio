@@ -2,9 +2,16 @@
 
 포기하지 않는 개발자 김건영입니다.
 
+## Contact
+
+이메일: kky8809@gmail.com
+블로그: https://godsu-develop.tistory.com
+깃헙: https://github.com/Geon0
+
 ## 기술 스택
 
-프로젝트에서 사용한 기술 스택입니다. 숙련된 기술은 **굵게** 강조했습니다.
+프로젝트에서 사용한 기술 스택입니다. 
+숙련된 기술은 **굵게** 강조했습니다.
 
 - 언어
   - Java
@@ -74,7 +81,7 @@ solidity를 사용하여 이더리움 메인넷과 연결함
 
 ### 사용해보기
 
-## [METAVERSERO](https://metaversero.io)
+https://metaversero.io
 
 ## [MARKET](https://github.com/Geon0/MARKET) (2021)
 
