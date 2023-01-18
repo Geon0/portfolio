@@ -53,3 +53,28 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 
 apple app store 에서 pop pop ar 검색 후 다운로드
 google play store 에서 poppop 검색 후 다운로드
+
+## [METAVERSERO](https://metaversero.io) (2022~)
+
+`#html` `#css` `#javascript` `#php` `#AR` `#Mysql`
+
+### 요약
+solidity를 사용하여 erc-1155 거래를 지원하는 NFT 거래소
+
+### 자세히
+
+METAVERSERO는 프론트엔드 html css javascript 와 백엔드 php 스마트 컨트랙트 solidity RDS를 사용하여 DB를 구성했습니다.
+
+1. NFT를 생성하는 백오피스에 비중을 두었습니다.
+2. 이더리움 메인넷에 pending
+
+### 느낀점
+
+solidity를 사용하여 이더리움 메인넷과 연결함
+
+### 사용해보기
+
+## [METAVERSERO](https://metaversero.io
+
+
+
