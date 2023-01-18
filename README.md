@@ -36,7 +36,7 @@
 
 `#javascript` `#react-native` `#aws` `#php` `#Laravel` `#AR` `#Mysql`
 
-### 요약
+### 프로젝트 내용
 POPPOP은 사용자의 위치정보를 통해 AR컨텐츠를 사용하여 콘텐츠를 생성하여 다른 사용자들과 커뮤니케이션 하는 어플리케이션입니다.
 
 ### 자세히
@@ -48,6 +48,11 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 3. 해당 위치에 등록되어있는 AR컨텐츠들을 불러온 뒤 선택합니다.
 4. wikitude라는 AR 라이브러리를 사용하여 해당 content를 사용하여 사진을 촬영하여 업로드합니다.
 5. AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
+
+### 역할
+- 백엔드설계
+- MainPageScreen 
+- 위치기반 서비스
 
 ### 느낀점
 
@@ -64,7 +69,7 @@ google play store 에서 poppop 검색 후 다운로드
 
 `#html` `#css` `#javascript` `#php` `#AR` `#Mysql`
 
-### 요약
+### 프로젝트 내용
 solidity를 사용하여 erc-1155 거래를 지원하는 NFT 거래소
 
 ### 자세히
@@ -73,6 +78,9 @@ METAVERSERO는 프론트엔드 html css javascript 와 백엔드 php 스마트 �
 
 1. NFT를 생성하는 백오피스에 비중을 두었습니다.
 2. 이더리움 메인넷에 pending
+
+### 역할
+- 백오피스 설계 제작
 
 ### 느낀점
 
@@ -86,7 +94,7 @@ https://metaversero.io
 
 `#html` `#css` `#javascript` `#jsp` `#java` `#oracle` `#Jquery`
 
-### 요약
+### 프로젝트 내용
 자체 솔루션을 사용하여 경매 시스템 구현
 
 ### 자세히
@@ -96,6 +104,9 @@ https://metaversero.io
 - 입찰 기능 구현시 exception 처리 구현
 - 버튼을 클릭하여 입찰 가격 조정 기능 구현
 - 입찰자 발생시 전 입찰자에게 알림 기능 구현
+
+### 역할
+- 설계 및 
 
 ### 느낀점
 
