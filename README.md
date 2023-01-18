@@ -84,16 +84,18 @@ https://metaversero.io
 
 ## [MARKET](https://github.com/Geon0/MARKET) (2021)
 
-`#html` `#css` `#javascript` `#jsp` `#java` `#oracle`
+`#html` `#css` `#javascript` `#jsp` `#java` `#oracle` `#Jquery`
 
 ### 요약
 자체 솔루션을 사용하여 경매 시스템 구현
 
 ### 자세히
 
-MARKET은 프론트엔드 html css javascript 와 백엔드 java servlet 리눅스 서버에 oracle을 설치하여 DB를 구성했습니다.
-
-1. 사내마켓
+- 배치 스케쥴을 사용하여 정해진 시간 도달시 종료 되는 기능 구현
+- 경매 시스템을 참고하여 입찰하기 기능 구현
+- 입찰 기능 구현시 exception 처리 구현
+- 버튼을 클릭하여 입찰 가격 조정 기능 구현
+- 입찰자 발생시 전 입찰자에게 알림 기능 구현
 
 ### 느낀점
 
