@@ -3,10 +3,9 @@
 포기하지 않는 개발자 김건영입니다.
 
 ## Contact
-
-이메일: kky8809@gmail.com
-블로그: https://godsu-develop.tistory.com
-깃헙: https://github.com/Geon0
+- 이메일: kky8809@gmail.com
+- 블로그: https://godsu-develop.tistory.com
+- 깃헙: https://github.com/Geon0
 
 ## 기술 스택
 
