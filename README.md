@@ -46,8 +46,8 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 1. 사용자의 스마트폰에서 위치정보를 가져와 Api server로 위치 정보를 전달합니다.
 2. 서버는 전달받은 위치정보를 기반으로 DB에서 직경 3km이내의 위치를 반환해줍니다.
 3. 해당 위치에 등록되어있는 AR컨텐츠들을 불러온 뒤 선택합니다.
-4. wikitude라는 AR 라이브러리를 사용하여 해당 content를 사용하여 사진을 촬영합니다.
-5. 사진을 촬영한 후 업로드합니다.
+4. wikitude라는 AR 라이브러리를 사용하여 해당 content를 사용하여 사진을 촬영하여 업로드합니다.
+5. AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
 
 ### 느낀점
 
