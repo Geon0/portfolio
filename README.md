@@ -24,7 +24,7 @@
 - [POPPOP (2022~2023)](https://play.google.com/store/apps/details?id=com.poppop&hl=ko)
 - [METAVERSERO (2022~2022)](https://metaversero.io/)
 - [MARKET (2021)](https://github.com/Geon0/MARKET)
-- [ETC.](https://github.com/Geon0/portfolio/edit/main/README.md)
+- [ETC. (2019~)](https://github.com/Geon0)
 
 ## [POPPOP](https://play.google.com/store/apps/details?id=com.poppop&hl=ko) (2022~)
 
