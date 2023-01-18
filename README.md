@@ -22,11 +22,11 @@
 ## 프로젝트 참여 경력
 
 - [POPPOP (2022~2023)](https://play.google.com/store/apps/details?id=com.poppop&hl=ko)
-- [mateversero (2022~2022)](https://metaversero.io/)
-- [market (2021)](https://github.com/Geon0/MARKET)
-- [etc.](https://github.com/Geon0/portfolio/edit/main/README.md)
+- [METAVERSERO (2022~2022)](https://metaversero.io/)
+- [MARKET (2021)](https://github.com/Geon0/MARKET)
+- [ETC.](https://github.com/Geon0/portfolio/edit/main/README.md)
 
-## [poppop](https://play.google.com/store/apps/details?id=com.poppop&hl=ko) (2022~)
+## [POPPOP](https://play.google.com/store/apps/details?id=com.poppop&hl=ko) (2022~)
 
 `#javascript` `#react-native` `#aws` `#php` `#Laravel` `#AR` `#Mysql`
 
@@ -36,10 +36,6 @@ POPPOP은 사용자의 위치정보를 통해 AR컨텐츠를 사용하여 콘텐
 ### 자세히
 
 POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서버 RDS를 사용하여 DB를 구성했습니다.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dialogflow/resources/master/images/overview.png" width="1000">
-</p>
 
 1. 사용자의 스마트폰에서 위치정보를 가져와 Api server로 위치 정보를 전달합니다.
 2. 서버는 전달받은 위치정보를 기반으로 DB에서 직경 3km이내의 위치를 반환해줍니다.
