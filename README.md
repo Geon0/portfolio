@@ -74,7 +74,21 @@ solidity를 사용하여 이더리움 메인넷과 연결함
 
 ### 사용해보기
 
-## [METAVERSERO](https://metaversero.io
+## [METAVERSERO](https://metaversero.io)
 
+## [MARKET](https://github.com/Geon0/MARKET) (2021)
 
+`#html` `#css` `#javascript` `#jsp` `#java` `#oracle`
 
+### 요약
+자체 솔루션을 사용하여 경매 시스템 구현
+
+### 자세히
+
+MARKET은 프론트엔드 html css javascript 와 백엔드 java servlet 리눅스 서버에 oracle을 설치하여 DB를 구성했습니다.
+
+1. 사내마켓
+
+### 느낀점
+
+Exception 처리에 많은 시간을 할애함
