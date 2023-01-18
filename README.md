@@ -49,6 +49,9 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 4. wikitude라는 AR 라이브러리를 사용하여 해당 content를 사용하여 사진을 촬영하여 업로드합니다.
 5. AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
 
+### 프로젝트 인원
+- 팀장(본인), 팀원2명 총 3명
+
 ### 역할
 - 백엔드설계
 - MainPageScreen 
@@ -79,6 +82,9 @@ METAVERSERO는 프론트엔드 html css javascript 와 백엔드 php 스마트 �
 1. NFT를 생성하는 백오피스에 비중을 두었습니다.
 2. 이더리움 메인넷에 pending
 
+### 프로젝트 인원
+- 블록체인 개발자, 팀원(본인), 팀원1명 총 3명
+
 ### 역할
 - 백오피스 설계 제작
 
@@ -96,6 +102,9 @@ https://metaversero.io
 
 ### 프로젝트 내용
 자체 솔루션을 사용하여 경매 시스템 구현
+
+### 프로젝트 인원
+- 본인 총 1
 
 ### 자세히
 
