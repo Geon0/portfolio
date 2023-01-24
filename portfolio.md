@@ -13,7 +13,7 @@
 숙련된 기술은 **굵게** 강조했습니다.
 
 - 언어
-  - Java
+  - **Java**
   - Php
   - **JavaScript**
 - 프레임워크 / 툴킷
@@ -46,27 +46,29 @@ POPPOP은 사용자의 위치정보를 통해 AR컨텐츠를 사용하여 콘텐
 
 POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서버 RDS를 사용하여 DB를 구성했습니다.
 
-1. 사용자의 스마트폰에서 위치정보를 가져와 Api server로 위치 정보를 전달합니다.
-2. 서버는 전달받은 위치정보를 기반으로 DB에서 직경 3km이내의 위치를 반환해줍니다.
-3. 해당 위치에 등록되어있는 AR컨텐츠들을 불러온 뒤 선택합니다.
-4. wikitude라는 AR 라이브러리를 사용하여 해당 content를 사용하여 사진을 촬영하여 업로드합니다.
-5. AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
+1. DB 쿼리를 사용하여 위치기반 서비스 구현
+2. Wikitude 라이브러리 사용하여 위치기반 AR 구현 참조 : https://www.wikitude.com/
+3. AWS S3 BUCKET 사용하여 이미지 업로드 기능 구현
+4. AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
 
 ### 역할
-- 백엔드설계
-- MainPageScreen 
-- 위치기반 서비스
+
+- 백엔드 위치 기반 서비스 구현
+- Wikitude 라이브러리 사용
+- S3 BUCKET 이미지 업로드 기능 구현
+- PHP Laravel 프레임 워크 사용 Query Builder 사용하여 Api server 구현함
+- QR Code를 사용하여 보물찾기 게임 기능 구현
 
 ### 느낀점
 
-위치기반 서비스는 DB Query를 사용하여 구현했습니다. 
-위치 기반 AR을 사용하기 위해서 wikitude 라이브러리를 사용하였습니다.
-해당 라이브러리를 React native에 적용시켰습니다.
+처음 해보는 앱개발 Flutter 와 React-native에서 React에 익숙한 React-native로 프론트 구현
+PHP Laravel 프레임 워크 사용 Query Builder 사용하여 Api server 구현
+초기 세팅부터 앱빌드 후 마켓 업로드까지 모든 과정을 거치면서 앱 개발에 대한 전체적인 프로세스를 이해할 수 있었음.
 
 ### 사용해보기
 
-apple app store 에서 pop pop ar 검색 후 다운로드
-google play store 에서 poppop 검색 후 다운로드
+apple app store 에서 pop pop ar 검색 후 다운로드 (현재 서비스중)
+google play store 에서 poppop 검색 후 다운로드 (현재 서비스중)
 
 ## [METAVERSERO](https://metaversero.io) (2022~)
 
@@ -82,8 +84,8 @@ solidity를 사용하여 erc-1155 거래를 지원하는 NFT 거래소
 
 METAVERSERO는 프론트엔드 html css javascript 와 백엔드 php 스마트 컨트랙트 solidity RDS를 사용하여 DB를 구성했습니다.
 
-1. NFT를 생성하는 백오피스에 비중을 두었습니다.
-2. 이더리움 메인넷에 pending
+1. Metamask를 사용하여
+2. 이더리움 메인넷에 pend
 
 ### 역할
 - 백오피스 설계 제작
