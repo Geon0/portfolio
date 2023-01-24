@@ -46,10 +46,10 @@ POPPOP은 사용자의 위치정보를 통해 AR컨텐츠를 사용하여 콘텐
 
 POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서버 RDS를 사용하여 DB를 구성했습니다.
 
-1. DB 쿼리를 사용하여 위치기반 서비스 구현
-2. Wikitude 라이브러리 사용하여 위치기반 AR 구현 참조 : https://www.wikitude.com/
-3. AWS S3 BUCKET 사용하여 이미지 업로드 기능 구현
-4. AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
+- DB 쿼리를 사용하여 위치기반 서비스 구현
+- Wikitude 라이브러리 사용하여 위치기반 AR 구현 참조 : https://www.wikitude.com/
+- AWS S3 BUCKET 사용하여 이미지 업로드 기능 구현
+- AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
 
 ### 역할
 
@@ -82,17 +82,22 @@ solidity를 사용하여 erc-1155 거래를 지원하는 NFT 거래소
 
 ### 자세히
 
-METAVERSERO는 프론트엔드 html css javascript 와 백엔드 php 스마트 컨트랙트 solidity RDS를 사용하여 DB를 구성했습니다.
+METAVERSERO는 프론트엔드 html css javascript 와 백엔드 php 스마트 컨트랙트 solidity, RDS를 사용하여 DB를 구성했습니다.
 
-1. Metamask를 사용하여
-2. 이더리움 메인넷에 pend
+- Metamask를 사용한 이더리움 기반 NFT 거래소
+- 경매 시스템 사용
+- 리워드 시스템 사용
 
 ### 역할
-- 백오피스 설계 제작
+- 백오피스 설계 및 제작
+- NFT 업로드 기능 구현
+- AIRDROP NFT 업로드 기능 구현
+- CRON TAB을 사용하여 리워드 시스템 기능 구현
+- 경매 시스템 기능 구현
 
 ### 느낀점
 
-solidity를 사용하여 이더리움 메인넷과 연결함
+이더리움을 사용하여 NFT를 거래하는 거래소 제작
 
 ### 사용해보기
 
