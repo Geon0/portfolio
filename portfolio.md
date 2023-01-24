@@ -58,6 +58,9 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 - 이미지 모아보기 기능 구현
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214236283-652bc3de-c5ba-4894-8e94-1e8d8ceba72a.png">
 
+- QR Code 사용하여 보물찾기 기능 구현
+<img width = '200' src="https://user-images.githubusercontent.com/63902537/214237951-dbc0cbc3-ead7-4ce1-8828-c2c3f13cd568.png">
+
 - AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
 
 ### 역할
