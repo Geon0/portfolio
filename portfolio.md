@@ -47,8 +47,17 @@ POPPOP은 사용자의 위치정보를 통해 AR컨텐츠를 사용하여 콘텐
 POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서버 RDS를 사용하여 DB를 구성했습니다.
 
 - DB 쿼리를 사용하여 위치기반 서비스 구현
-- Wikitude 라이브러리 사용하여 위치기반 AR 구현 참조 : https://www.wikitude.com/
+<img width = '200' src="https://user-images.githubusercontent.com/63902537/214235608-04f485b5-750d-47e2-ba9c-adf513ed730f.png">
+
+- Wikitude 라이브러리 사용하여 위치기반 AR 구현 
+<img width = '200' src="https://user-images.githubusercontent.com/63902537/214236576-dc604663-fdd1-4d28-85d0-606f6158c5a6.png">
+
 - AWS S3 BUCKET 사용하여 이미지 업로드 기능 구현
+<img width = '200' src="https://user-images.githubusercontent.com/63902537/214236095-7c832cc1-325b-46e7-9c30-5ef568d30bee.png">
+
+- 이미지 모아보기 기능 구현
+<img width = '200' src="https://user-images.githubusercontent.com/63902537/214236283-652bc3de-c5ba-4894-8e94-1e8d8ceba72a.png">
+
 - AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
 
 ### 역할
