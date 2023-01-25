@@ -53,6 +53,8 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 - Wikitude 라이브러리 사용하여 위치기반 AR 구현 
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214236576-dc604663-fdd1-4d28-85d0-606f6158c5a6.png">
 
+<img width = '200' src="https://user-images.githubusercontent.com/63902537/214514922-8be01284-4760-425f-812a-e0cd515cdf3f.png">
+
 - AWS S3 BUCKET 사용하여 이미지 업로드 기능 구현
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214236095-7c832cc1-325b-46e7-9c30-5ef568d30bee.png">
 
