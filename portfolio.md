@@ -50,6 +50,8 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 - DB 쿼리를 사용하여 위치기반 서비스 구현
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214235608-04f485b5-750d-47e2-ba9c-adf513ed730f.png">
 
+<img width = '200' src="https://user-images.githubusercontent.com/63902537/214515329-76738e23-67b5-4203-b42e-821c514e72e7.png">
+
 - Wikitude 라이브러리 사용하여 위치기반 AR 구현 
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214236576-dc604663-fdd1-4d28-85d0-606f6158c5a6.png">
 
@@ -122,6 +124,10 @@ METAVERSERO는 프론트엔드 html css javascript 와 백엔드 php 스마트 �
 - AIRDROP NFT 민팅 기능 (무료거래)
 
 <img width = '350' src="https://user-images.githubusercontent.com/63902537/214513637-3d3a43d0-6efa-449e-8a5c-2a6f1561e5e6.png">
+
+- 시스템 구성도
+
+<img width = '350' src="https://user-images.githubusercontent.com/63902537/214516034-e1d54aaa-4726-4cd4-b888-045448cb6cdf.png">
 
 ### 역할
 
