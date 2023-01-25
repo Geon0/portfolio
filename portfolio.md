@@ -113,6 +113,14 @@ METAVERSERO는 프론트엔드 html css javascript 와 백엔드 php 스마트 �
 
 <img width = '350' src="https://user-images.githubusercontent.com/63902537/214513161-0dab8d5e-f31f-4117-b6a5-0eb1e7f93b3b.png">
 
+- NFT 민팅 기능 (유료거래)
+
+<img width = '350' src="https://user-images.githubusercontent.com/63902537/214513539-bda1bebd-ba84-48c6-bfda-c6ec71e7a2c4.png">
+
+- AIRDROP NFT 민팅 기능 (무료거래)
+
+<img width = '350' src="https://user-images.githubusercontent.com/63902537/214513637-3d3a43d0-6efa-449e-8a5c-2a6f1561e5e6.png">
+
 ### 역할
 
 - 백오피스 설계 및 제작
