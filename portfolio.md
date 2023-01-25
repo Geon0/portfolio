@@ -102,8 +102,16 @@ solidity를 사용하여 erc-1155 거래를 지원하는 NFT 거래소
 METAVERSERO는 프론트엔드 html css javascript 와 백엔드 php 스마트 컨트랙트 solidity, RDS를 사용하여 DB를 구성했습니다.
 
 - Metamask를 사용한 이더리움 기반 NFT 거래소
+
+<img width = '350' src="https://user-images.githubusercontent.com/63902537/214512448-80301128-336d-43dd-bfcf-71158319ea5d.png">
+
 - 경매 시스템 사용
+
+<img width = '350' src="https://user-images.githubusercontent.com/63902537/214512940-24fc282f-9d36-41cd-8200-43a55621845d.png">
+
 - 리워드 시스템 사용
+
+<img width = '350' src="https://user-images.githubusercontent.com/63902537/214513161-0dab8d5e-f31f-4117-b6a5-0eb1e7f93b3b.png">
 
 ### 역할
 
