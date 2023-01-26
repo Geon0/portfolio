@@ -71,7 +71,6 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214769459-64ed0ed7-1341-4756-adbd-ae589b59fc69.png">
 
--AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
 
 ### 역할
 
