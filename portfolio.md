@@ -47,26 +47,37 @@ POPPOP은 사용자의 위치정보를 통해 AR컨텐츠를 사용하여 콘텐
 
 POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서버 RDS를 사용하여 DB를 구성했습니다.
 
-- DB 쿼리를 사용하여 위치기반 서비스 구현
+**DB 쿼리를 사용하여 위치기반 서비스 구현**
+
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214235608-04f485b5-750d-47e2-ba9c-adf513ed730f.png">
 
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214515329-76738e23-67b5-4203-b42e-821c514e72e7.png">
 
-- Wikitude 라이브러리 사용하여 위치기반 AR 구현 
+
+**Wikitude 라이브러리 사용하여 위치기반 AR 구현** 
+
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214236576-dc604663-fdd1-4d28-85d0-606f6158c5a6.png">
 
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214514922-8be01284-4760-425f-812a-e0cd515cdf3f.png">
 
-- AWS S3 BUCKET 사용하여 이미지 업로드 기능 구현
+
+**AWS S3 BUCKET 사용하여 이미지 업로드 기능 구현**
+
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214236095-7c832cc1-325b-46e7-9c30-5ef568d30bee.png">
 
-- 페이징 처리 구현
+
+**페이징 처리 구현**
+
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214236283-652bc3de-c5ba-4894-8e94-1e8d8ceba72a.png">
 
-- QR Code 사용하여 보물찾기 기능 구현
+
+**QR Code 사용하여 보물찾기 기능 구현**
+
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214237951-dbc0cbc3-ead7-4ce1-8828-c2c3f13cd568.png">
 
-- 웹뷰 소셜 로그인 기능 구현
+
+**웹뷰 소셜 로그인 기능 구현**
+
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214769438-9a1e4f38-9d9a-496a-8926-f9cb009716c0.png">
 
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214769459-64ed0ed7-1341-4756-adbd-ae589b59fc69.png">
@@ -110,27 +121,27 @@ solidity를 사용하여 erc-1155 거래를 지원하는 NFT 거래소
 
 METAVERSERO는 프론트엔드 html css javascript 와 백엔드 php 스마트 컨트랙트 solidity, RDS를 사용하여 DB를 구성했습니다.
 
-- Metamask를 사용한 이더리움 기반 NFT 거래소
+**Metamask를 사용한 이더리움 기반 NFT 거래소**
 
 <img width = '350' src="https://user-images.githubusercontent.com/63902537/214512448-80301128-336d-43dd-bfcf-71158319ea5d.png">
 
-- 경매 시스템 사용
+**경매 시스템 사용**
 
 <img width = '350' src="https://user-images.githubusercontent.com/63902537/214512940-24fc282f-9d36-41cd-8200-43a55621845d.png">
 
-- 리워드 시스템 사용
+**리워드 시스템 사용**
 
 <img width = '350' src="https://user-images.githubusercontent.com/63902537/214513161-0dab8d5e-f31f-4117-b6a5-0eb1e7f93b3b.png">
 
-- NFT 민팅 기능 (유료거래)
+**NFT 민팅 기능 (유료거래)**
 
 <img width = '350' src="https://user-images.githubusercontent.com/63902537/214513539-bda1bebd-ba84-48c6-bfda-c6ec71e7a2c4.png">
 
-- AIRDROP NFT 민팅 기능 (무료거래)
+**AIRDROP NFT 민팅 기능 (무료거래)**
 
 <img width = '350' src="https://user-images.githubusercontent.com/63902537/214513637-3d3a43d0-6efa-449e-8a5c-2a6f1561e5e6.png">
 
-- 시스템 구성도
+**시스템 구성도**
 
 <img width = '350' src="https://user-images.githubusercontent.com/63902537/214516034-e1d54aaa-4726-4cd4-b888-045448cb6cdf.png">
 
