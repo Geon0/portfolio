@@ -66,7 +66,12 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 - QR Code 사용하여 보물찾기 기능 구현
 <img width = '200' src="https://user-images.githubusercontent.com/63902537/214237951-dbc0cbc3-ead7-4ce1-8828-c2c3f13cd568.png">
 
-- AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
+- 웹뷰 소셜 로그인 기능 구현
+<img width = '200' src="https://user-images.githubusercontent.com/63902537/214769438-9a1e4f38-9d9a-496a-8926-f9cb009716c0.png">
+
+<img width = '200' src="https://user-images.githubusercontent.com/63902537/214769459-64ed0ed7-1341-4756-adbd-ae589b59fc69.png">
+
+-AWS Elastic Load Balancing 사용하여 HTTPS SSL 인증서 적용
 
 ### 역할
 
@@ -75,6 +80,7 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 - S3 BUCKET 이미지 업로드 기능 구현
 - PHP Laravel 프레임 워크 사용 Query Builder 사용하여 Api server 구현
 - QR Code를 사용하여 보물찾기 게임 기능 구현
+- 웹뷰 사용 SNS 로그인 
 
 ### 느낀점
 
@@ -86,8 +92,9 @@ AWS를 사용하여 개발하여 편안하게 개발할 수 있었음
 
 ### 사용해보기
 
-apple app store 에서 pop pop ar 검색 후 다운로드 (현재 서비스중)
-google play store 에서 poppop 검색 후 다운로드 (현재 서비스중)
+- apple app store https://apps.apple.com/kr/app/pop-pop-ar/id6444426162
+
+- google play store https://play.google.com/store/apps/details?id=com.poppop&pli=1
 
 ## [METAVERSERO](https://metaversero.io) (2022~)
 
