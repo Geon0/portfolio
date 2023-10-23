@@ -46,7 +46,7 @@ POPPOP은 사용자의 위치정보를 통해 AR컨텐츠를 사용하여 콘텐
 
 ### 자세히
 
-POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서버 RDS를 사용하여 DB를 구성했습니다.
+POPPOP은 프론트엔드 React Native 와 백엔드 SpringBoot를 사용한 Api서버 RDS를 사용하여 DB를 구성했습니다.
 
 **DB 쿼리를 사용하여 위치기반 서비스 구현**
 
@@ -89,14 +89,14 @@ POPPOP은 프론트엔드 React Native 와 백엔드 Laravel을 사용한 Api서
 - Mysql 함수, 프리시저 사용하여 위치기반 구현
 - Wikitude 라이브러리 사용하여 AR 기능 구현
 - PHP S3 BUCKET 이미지 업로드 기능 구현
-- PHP Laravel RestFul API 구현
+- SPRINGBOOT RestFul API 구현
 - QR Code를 사용하여 보물찾기 기능 DB table 설계
 - oauth 2.0 간편 SNS 로그인 기능 구현 (카카오, 네이버)
 - 상태 관리를 위한 redux 사용
 
 ### 느낀점
 
-React-native 프론트 , PHP Laravel 백엔드를 사용했습니다.
+React-native 프론트 , SPRINGBOOT 백엔드를 사용했습니다.
 환경세팅 부터 마켓 업로드 배포까지 모든 과정을 진행했으며 
 구글 플레이 스토어와 애플 앱스토어에 업로드되어 서비스중입니다.
 
